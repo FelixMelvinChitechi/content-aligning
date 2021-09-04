@@ -1,0 +1,33 @@
+<div class="site-section" id="blog-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center mb-5">
+        <div class="block-heading-1 aos-init aos-animate" data-aos="fade-up" data-aos-delay="">
+          <span>Latest Photos</span>
+          <h2>Our Gallery</h2>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-6 col-lg-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="">
+        <div>
+          <a href="single.html" class="mb-4 d-block"><img src="images/hero_2.jpg" alt="Image" class="img-fluid rounded"></a>
+          <h2>Forex Is Real</h2>
+          <p class="text-muted mb-3 text-uppercase small"><span class="mr-2">December 18, 2020</span> By Onesmus</a></p>
+          <p>Here we make profits</p>
+          
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+        <div>
+          <a href="single.html" class="mb-4 d-block"><img src="images/hero_3.jpg" alt="Image" class="img-fluid rounded"></a>
+          <h2>Never Give Up</a></h2>
+          <p class="text-muted mb-3 text-uppercase small"><span class="mr-2">January 18, 2021</span> By Clive</a></p>
+          <p>Investing is all about commitment</p>
+          
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
